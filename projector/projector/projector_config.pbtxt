@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "embedding:0"
+  metadata_path: "/var/opt/pycharm/tensorflow-10-classes/projector/projector/metadata.tsv"
+  sprite {
+    image_path: "/var/opt/pycharm/tensorflow-10-classes/projector/data/mnist_10k_sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
